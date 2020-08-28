@@ -1,0 +1,9 @@
+[submodule "themes/Blogpaper"]
+	path = themes/Blogpaper
+	url = https://github.com/NormandErwan/Blogpaper
+[submodule "themes/hugo-theme-okayish-blog"]
+	path = themes/hugo-theme-okayish-blog
+	url = https://github.com/kongdivin/hugo-theme-okayish-blog.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
